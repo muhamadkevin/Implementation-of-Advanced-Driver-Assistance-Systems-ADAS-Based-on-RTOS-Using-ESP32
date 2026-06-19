@@ -1,0 +1,9929 @@
+{
+  "traceEvents": [
+    {
+      "name": "Unnamed",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 0,
+      "dur": 2277585,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2227689,
+      "dur": 104410,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2277591,
+      "dur": 99994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2332109,
+      "dur": 50489,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2382604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2377591,
+      "dur": 99994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2432604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2482604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2477591,
+      "dur": 99994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2532604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2582604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2577591,
+      "dur": 103278,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2632604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2682604,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 2676585,
+      "dur": 104004,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2732604,
+      "dur": 52231,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2680875,
+      "dur": 103988,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2784841,
+      "dur": 49757,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 2780595,
+      "dur": 103990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2784869,
+      "dur": 104070,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2834604,
+      "dur": 54371,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2888981,
+      "dur": 50617,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 2884591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2888945,
+      "dur": 104898,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2939604,
+      "dur": 54275,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 2993885,
+      "dur": 49713,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 2989591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 2993849,
+      "dur": 103992,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3043604,
+      "dur": 54273,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3097883,
+      "dur": 49715,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 2177729,
+      "dur": 1000529,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3093591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3097847,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3147604,
+      "dur": 54285,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3201895,
+      "dur": 49703,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3197591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3201851,
+      "dur": 104013,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3251604,
+      "dur": 54296,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3305906,
+      "dur": 50692,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3301591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3356604,
+      "dur": 53178,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3305870,
+      "dur": 103940,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3409788,
+      "dur": 49810,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3405591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3409816,
+      "dur": 104124,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3459604,
+      "dur": 54372,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3513982,
+      "dur": 50616,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3509591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3513946,
+      "dur": 104942,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3564604,
+      "dur": 54322,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3618932,
+      "dur": 50666,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3614591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3669604,
+      "dur": 53370,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3618894,
+      "dur": 104108,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3722980,
+      "dur": 50618,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3718591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3723008,
+      "dur": 104908,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3773604,
+      "dur": 54349,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3827959,
+      "dur": 50639,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3823591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3827923,
+      "dur": 103918,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3878604,
+      "dur": 53273,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3931883,
+      "dur": 49715,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 3927591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 3931847,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 3981604,
+      "dur": 54273,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4035883,
+      "dur": 49715,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4031591,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4035847,
+      "dur": 104117,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4085604,
+      "dur": 54396,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 3178264,
+      "dur": 1000494,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4140006,
+      "dur": 50599,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4135591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4139970,
+      "dur": 105670,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4190612,
+      "dur": 55064,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4245682,
+      "dur": 49916,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4240591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4245646,
+      "dur": 105026,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4295604,
+      "dur": 55104,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4350714,
+      "dur": 49884,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4345591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4350678,
+      "dur": 104933,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4400604,
+      "dur": 55043,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4455653,
+      "dur": 49945,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4450591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4455617,
+      "dur": 104919,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4505604,
+      "dur": 54968,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4560584,
+      "dur": 50014,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4555591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4560542,
+      "dur": 105483,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4610604,
+      "dur": 55457,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4666067,
+      "dur": 50531,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4660591,
+      "dur": 105994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4666031,
+      "dur": 105042,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4716604,
+      "dur": 54505,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4771115,
+      "dur": 50483,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4766591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4771079,
+      "dur": 105738,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4821604,
+      "dur": 55249,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4876859,
+      "dur": 49739,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4871591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4876823,
+      "dur": 104912,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4926604,
+      "dur": 55167,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 4981777,
+      "dur": 49821,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 4976591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 4981741,
+      "dur": 104945,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 5031604,
+      "dur": 55118,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 5086728,
+      "dur": 49877,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 4178764,
+      "dur": 1000006,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17379586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17403598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17429586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17453599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 17423586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17479586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17503598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17529586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17553599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 17525586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17579586,
+      "dur": 49419,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17603598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17629011,
+      "dur": 50568,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17653599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 17627586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17679586,
+      "dur": 51426,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17703598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17731018,
+      "dur": 50561,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17753599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 17729586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17781586,
+      "dur": 51426,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17803598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17833018,
+      "dur": 50561,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17853599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 17831586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17883586,
+      "dur": 51461,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17903598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17935053,
+      "dur": 50526,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 17953599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 17933586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 17985586,
+      "dur": 51503,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18003598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 17054855,
+      "dur": 999898,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18037095,
+      "dur": 50484,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18053599,
+      "dur": 50001,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18035586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18087586,
+      "dur": 54627,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18103606,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18142219,
+      "dur": 50360,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18153599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18137586,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18192586,
+      "dur": 51923,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18203598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18244515,
+      "dur": 50064,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18253599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18242586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18294586,
+      "dur": 52042,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18346634,
+      "dur": 49370,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "WARNING",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18408097,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 18054759,
+      "dur": 353773,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18344586,
+      "dur": 101998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18396014,
+      "dur": 52756,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18446590,
+      "dur": 101990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18548586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18649586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18448780,
+      "dur": 399799,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18751586,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18856586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18303598,
+      "dur": 655675,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 18959283,
+      "dur": 50337,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 18958586,
+      "dur": 100998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19009626,
+      "dur": 51982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19061614,
+      "dur": 49978,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19059598,
+      "dur": 101982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19111598,
+      "dur": 52018,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19163622,
+      "dur": 49970,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 18848586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19161586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19213598,
+      "dur": 51995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19265599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19263586,
+      "dur": 102001,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19315598,
+      "dur": 52010,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 18408538,
+      "dur": 1000315,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19367614,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19365593,
+      "dur": 101987,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19417606,
+      "dur": 51911,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19469523,
+      "dur": 50069,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19467586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19519598,
+      "dur": 51919,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19571523,
+      "dur": 50069,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 19248586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19569586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19621598,
+      "dur": 51919,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19673523,
+      "dur": 50069,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19671586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19723598,
+      "dur": 51918,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19775522,
+      "dur": 50070,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19773586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19825598,
+      "dur": 51968,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19877579,
+      "dur": 50013,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19875586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19927598,
+      "dur": 51917,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 19979521,
+      "dur": 50071,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 19648586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 19977586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20029598,
+      "dur": 51996,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20081600,
+      "dur": 49992,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20079586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20131598,
+      "dur": 52012,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20183616,
+      "dur": 49976,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20181586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20233598,
+      "dur": 52014,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20285618,
+      "dur": 49974,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20283586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20335598,
+      "dur": 52013,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 19408859,
+      "dur": 999894,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20387617,
+      "dur": 49983,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 20048586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20385586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20437606,
+      "dur": 52027,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20489639,
+      "dur": 49953,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20487586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20539598,
+      "dur": 55477,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20595081,
+      "dur": 50511,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20589586,
+      "dur": 105994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20645598,
+      "dur": 52046,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20697650,
+      "dur": 49942,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20695586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20747598,
+      "dur": 51891,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 20448586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20799495,
+      "dur": 50097,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20797586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20849598,
+      "dur": 55447,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20905051,
+      "dur": 50541,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 20899586,
+      "dur": 105994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "SAFE",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21065485,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 20955598,
+      "dur": 109902,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 20408759,
+      "dur": 656947,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21005586,
+      "dur": 105998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21065506,
+      "dur": 51506,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21117022,
+      "dur": 50570,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21111590,
+      "dur": 105990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21167598,
+      "dur": 55193,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 20848586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21222797,
+      "dur": 49795,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21217586,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21272598,
+      "dur": 51972,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 21248589,
+      "dur": 99990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21324583,
+      "dur": 50009,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21322586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21374598,
+      "dur": 51797,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 21348586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21426401,
+      "dur": 50191,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21424586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 21448586,
+      "dur": 99412,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "WARNING",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21582507,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21476598,
+      "dur": 105923,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 21065712,
+      "dur": 517113,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21526586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21582527,
+      "dur": 50073,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 21548008,
+      "dur": 100571,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21632610,
+      "dur": 49982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21628586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21682598,
+      "dur": 49552,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21732157,
+      "dur": 50435,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21730586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21782598,
+      "dur": 51537,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21834141,
+      "dur": 50451,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21832586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21884598,
+      "dur": 51512,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21936116,
+      "dur": 50476,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 21934586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 21986598,
+      "dur": 51511,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 21648589,
+      "dur": 399990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22038115,
+      "dur": 50477,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22036586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22088598,
+      "dur": 51510,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22140114,
+      "dur": 50478,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22138586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22190598,
+      "dur": 51511,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22242115,
+      "dur": 50477,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22240586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22292598,
+      "dur": 51511,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22344115,
+      "dur": 50477,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22342586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22394598,
+      "dur": 51512,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 22048586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22446116,
+      "dur": 50476,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22444586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22496598,
+      "dur": 51509,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 21582831,
+      "dur": 999910,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22548114,
+      "dur": 50486,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22546586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22598606,
+      "dur": 51532,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22650144,
+      "dur": 50448,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22648586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22700598,
+      "dur": 51515,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22752119,
+      "dur": 50473,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 22448586,
+      "dur": 401993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22750586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22802598,
+      "dur": 51502,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22854106,
+      "dur": 50486,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22852586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22904598,
+      "dur": 51517,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 22956121,
+      "dur": 50471,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 22954586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23006598,
+      "dur": 51504,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23058108,
+      "dur": 50484,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23056586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23108598,
+      "dur": 51463,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23160067,
+      "dur": 50525,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 22850586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23158586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23210598,
+      "dur": 51443,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23262047,
+      "dur": 50545,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23260586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23312598,
+      "dur": 51452,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23364056,
+      "dur": 50536,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23362586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "DANGER",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23520481,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 22582747,
+      "dur": 938132,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23464586,
+      "dur": 101998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23250586,
+      "dur": 399993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23566590,
+      "dur": 101990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23650589,
+      "dur": 49990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23700586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23668586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23750586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23800586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23769586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23850586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23900586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23871586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 23950586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24000586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 23414598,
+      "dur": 656139,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 23973586,
+      "dur": 101998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24050586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24070747,
+      "dur": 49873,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24100586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24120626,
+      "dur": 49966,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24075598,
+      "dur": 100982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24150586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24170598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24200586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24220599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24176586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24250586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24270598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24300586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24320599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24278586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24350586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24370598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24400586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24420599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24380586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24450586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24470598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 23520893,
+      "dur": 999984,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24500586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24520599,
+      "dur": 50001,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24482586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24550586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24570606,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24600586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24620599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24584586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24650586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24670598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24700586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24720599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24686586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24750586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24770598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24800586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24820599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24788586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24850586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24870598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24900586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24920599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24890586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 24950586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 24970598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25000586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25020599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 24992586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25050586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25070598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25100586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25120599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25094586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25150586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25170598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25200586,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25220599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25196586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25250586,
+      "dur": 49489,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25270598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25300081,
+      "dur": 50498,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25320599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25298586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25350586,
+      "dur": 51489,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25370598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25402081,
+      "dur": 50498,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25420599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25400586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25452586,
+      "dur": 51489,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25470598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 24520883,
+      "dur": 999899,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25504081,
+      "dur": 50498,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25520599,
+      "dur": 50001,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25502586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25554586,
+      "dur": 51539,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25570606,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25606131,
+      "dur": 50448,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25620599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25604586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25656586,
+      "dur": 51516,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25670598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25708108,
+      "dur": 50471,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25720599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25706586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25758586,
+      "dur": 51515,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25770598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25810107,
+      "dur": 50472,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25820599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25808586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25860586,
+      "dur": 51517,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25870598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25912109,
+      "dur": 50470,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25920599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 25910586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 25962586,
+      "dur": 51457,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 25970598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26014049,
+      "dur": 50530,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26020599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26012586,
+      "dur": 101994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26064586,
+      "dur": 54155,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26070598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26118748,
+      "dur": 49831,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26120599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26114586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26170598,
+      "dur": 52104,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26168586,
+      "dur": 54144,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26222708,
+      "dur": 49884,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26222736,
+      "dur": 49884,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26218586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26272626,
+      "dur": 54143,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26326779,
+      "dur": 49191,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "SAFE",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26381132,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 25520788,
+      "dur": 860767,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26322586,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26375980,
+      "dur": 54684,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26426590,
+      "dur": 103990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26430674,
+      "dur": 103941,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26530586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26534621,
+      "dur": 104041,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26634586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26638668,
+      "dur": 104020,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26738586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26742694,
+      "dur": 103945,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26272598,
+      "dur": 659147,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26842586,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26846645,
+      "dur": 100475,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26931755,
+      "dur": 49861,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 26981622,
+      "dur": 49970,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 26946598,
+      "dur": 100982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 26947126,
+      "dur": 104512,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27031598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27081598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27047586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27051644,
+      "dur": 101039,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27131598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27181598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27151586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27152689,
+      "dur": 101011,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "DANGER",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27336081,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 26381561,
+      "dur": 955185,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27252586,
+      "dur": 100998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27253706,
+      "dur": 101046,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27354762,
+      "dur": 49817,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27353590,
+      "dur": 100990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27404586,
+      "dur": 50522,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27455114,
+      "dur": 50465,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27454586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27505586,
+      "dur": 51234,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27556826,
+      "dur": 49753,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27555586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27606586,
+      "dur": 51209,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27657801,
+      "dur": 49778,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27656586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27707586,
+      "dur": 51187,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27758779,
+      "dur": 49800,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27757586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27808586,
+      "dur": 51185,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27231598,
+      "dur": 655151,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27859777,
+      "dur": 49802,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27886759,
+      "dur": 49861,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27858586,
+      "dur": 100998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27909586,
+      "dur": 51224,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27936626,
+      "dur": 49966,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 27960816,
+      "dur": 49763,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 27986599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 27959598,
+      "dur": 100982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28010586,
+      "dur": 51207,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28036598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28061799,
+      "dur": 49780,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28086599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28060586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28111586,
+      "dur": 51206,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28136598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28162798,
+      "dur": 49781,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28186599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28161586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28212586,
+      "dur": 51208,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28236598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28263800,
+      "dur": 49779,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28286599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 27336760,
+      "dur": 1000097,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28262586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28313586,
+      "dur": 51210,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28336598,
+      "dur": 50002,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28364802,
+      "dur": 49777,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28386606,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28363586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28414586,
+      "dur": 51207,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28436598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28465799,
+      "dur": 49780,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28486599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28464586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28515586,
+      "dur": 51209,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28536598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28566801,
+      "dur": 49778,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28586599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28565586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28616586,
+      "dur": 51208,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28636598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28667800,
+      "dur": 49779,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28686599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28666586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28717586,
+      "dur": 51211,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28736598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28768803,
+      "dur": 49776,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28786599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28767586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28818586,
+      "dur": 51210,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28836598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28869802,
+      "dur": 49777,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28886599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28868586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28919586,
+      "dur": 51232,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28936598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 28970824,
+      "dur": 49755,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 28986599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 28969586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29020586,
+      "dur": 51284,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29036598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29071876,
+      "dur": 49703,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29086599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29070586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29121586,
+      "dur": 51258,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29136598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29172850,
+      "dur": 49729,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29186599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29171586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29222586,
+      "dur": 51306,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29236598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29273898,
+      "dur": 49682,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29286599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 28336863,
+      "dur": 999919,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29272586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29323586,
+      "dur": 51233,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29336598,
+      "dur": 50002,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29374825,
+      "dur": 49754,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29386606,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29373586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29424586,
+      "dur": 51103,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29436598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29475695,
+      "dur": 49884,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29486599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29474586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29525586,
+      "dur": 51128,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29536598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29576720,
+      "dur": 49859,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29586599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29575586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29626586,
+      "dur": 54019,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29636598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29680611,
+      "dur": 49968,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29686599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29676586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29730586,
+      "dur": 54069,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29736598,
+      "dur": 49995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29784661,
+      "dur": 49918,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29786599,
+      "dur": 49993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29780586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29834586,
+      "dur": 54187,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29888783,
+      "dur": 49175,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "SAFE",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29943122,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 29336788,
+      "dur": 606757,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29884586,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29937968,
+      "dur": 54646,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 29988590,
+      "dur": 103990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 29992624,
+      "dur": 103986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30092586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30096616,
+      "dur": 104094,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30196586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30200716,
+      "dur": 103915,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30300586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30304637,
+      "dur": 104048,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 29836598,
+      "dur": 657147,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30404586,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30408691,
+      "dur": 100440,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30493755,
+      "dur": 49861,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30543622,
+      "dur": 49970,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30508598,
+      "dur": 100982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30509137,
+      "dur": 104573,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30593598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30643598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30609586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30613716,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30693598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30743598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30713586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30717716,
+      "dur": 103915,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30793598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30843598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30817586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30821637,
+      "dur": 103996,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30893598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 29943551,
+      "dur": 1000318,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30943598,
+      "dur": 50002,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 30921586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 30925640,
+      "dur": 103969,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 30993606,
+      "dur": 49986,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31043598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31025586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31029615,
+      "dur": 103993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31093598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31143598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31129586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31133614,
+      "dur": 104040,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31193598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31243598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31233586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31237660,
+      "dur": 103947,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31293598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31343598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31337586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31393598,
+      "dur": 52046,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31341613,
+      "dur": 104059,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31445650,
+      "dur": 49942,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31441586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31445678,
+      "dur": 104052,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31495598,
+      "dur": 54168,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31549772,
+      "dur": 49820,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31545586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31549736,
+      "dur": 103969,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31599598,
+      "dur": 54143,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31653747,
+      "dur": 49845,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31649586,
+      "dur": 103400,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31653711,
+      "dur": 103378,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "EMERGENCY",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31771191,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 30943875,
+      "dur": 827750,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31752996,
+      "dur": 104588,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31757099,
+      "dur": 101011,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31858120,
+      "dur": 50459,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31857590,
+      "dur": 100990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31908586,
+      "dur": 54052,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 31962644,
+      "dur": 49935,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 31958586,
+      "dur": 103997,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32012586,
+      "dur": 54051,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32066643,
+      "dur": 49936,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32062589,
+      "dur": 103991,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32116586,
+      "dur": 54070,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32170662,
+      "dur": 49920,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32166586,
+      "dur": 103993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32220588,
+      "dur": 54097,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32274691,
+      "dur": 50060,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32270589,
+      "dur": 103995,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32324757,
+      "dur": 53861,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32378624,
+      "dur": 49955,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32374598,
+      "dur": 103982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32428586,
+      "dur": 54021,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32482613,
+      "dur": 49970,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32478586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32532589,
+      "dur": 54003,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32586598,
+      "dur": 49981,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32582586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32636586,
+      "dur": 54069,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32690661,
+      "dur": 49918,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 31771639,
+      "dur": 1000192,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32686586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32740586,
+      "dur": 54022,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32794614,
+      "dur": 49965,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32790586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32844586,
+      "dur": 54123,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32898715,
+      "dur": 49864,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32894586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 32948586,
+      "dur": 54145,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33002737,
+      "dur": 49842,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 32998586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33052586,
+      "dur": 54145,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33106737,
+      "dur": 49842,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33102586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33156586,
+      "dur": 54071,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33210663,
+      "dur": 49916,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33206586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33260586,
+      "dur": 54096,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33314688,
+      "dur": 49891,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33310586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33364586,
+      "dur": 54048,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33418640,
+      "dur": 49939,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33414586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33468586,
+      "dur": 54072,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33522664,
+      "dur": 49915,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33518586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33572586,
+      "dur": 54024,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33626616,
+      "dur": 49963,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33622586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33676586,
+      "dur": 54046,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 32771837,
+      "dur": 999892,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33730638,
+      "dur": 49941,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33726586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33780586,
+      "dur": 54022,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33834614,
+      "dur": 49965,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33830586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33884586,
+      "dur": 54047,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33938639,
+      "dur": 49940,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 33934586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 33988586,
+      "dur": 54096,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34042688,
+      "dur": 49891,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34038586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34092586,
+      "dur": 54022,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34146614,
+      "dur": 49965,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34142586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34196586,
+      "dur": 54024,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34250616,
+      "dur": 49963,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34246586,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34300586,
+      "dur": 54052,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34354644,
+      "dur": 49935,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34350590,
+      "dur": 103990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34404586,
+      "dur": 50518,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34455110,
+      "dur": 50469,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34454586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34505586,
+      "dur": 54026,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34559618,
+      "dur": 49961,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34555586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34609586,
+      "dur": 54023,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34663615,
+      "dur": 49964,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34659586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34713586,
+      "dur": 54023,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 33771735,
+      "dur": 1000042,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34767615,
+      "dur": 49964,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34763586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34817586,
+      "dur": 50522,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34868114,
+      "dur": 49903,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 31703598,
+      "dur": 3225592,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34867586,
+      "dur": 100994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "SAFE",
+      "ph": "i",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 34979603,
+      "s": "p",
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 34929204,
+      "dur": 50414,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 34771783,
+      "dur": 208108,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 34918027,
+      "dur": 100552,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 34979624,
+      "dur": 49976,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 34968586,
+      "dur": 103998,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35029610,
+      "dur": 49982,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35018589,
+      "dur": 99990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35079598,
+      "dur": 49994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35072590,
+      "dur": 103990,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35129598,
+      "dur": 51007,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35118586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35180611,
+      "dur": 49981,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35176586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35230598,
+      "dur": 54024,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35218586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35284628,
+      "dur": 49964,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35280586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35334598,
+      "dur": 54027,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35318586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35388631,
+      "dur": 49961,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35384586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35438598,
+      "dur": 54025,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35418586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35492629,
+      "dur": 49963,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35488586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35542598,
+      "dur": 54100,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35518586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35596704,
+      "dur": 49888,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35592586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35646598,
+      "dur": 54099,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35618586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35700703,
+      "dur": 49889,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35696586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35750598,
+      "dur": 54010,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35718586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35804614,
+      "dur": 49978,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35800586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35854598,
+      "dur": 54026,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35818586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35908630,
+      "dur": 49962,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 34979897,
+      "dur": 999868,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 35904586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 35958598,
+      "dur": 54034,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 35918586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36012638,
+      "dur": 49954,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36008586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36062598,
+      "dur": 54028,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36018586,
+      "dur": 99993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36116632,
+      "dur": 49960,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36112586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36118586,
+      "dur": 102070,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36166598,
+      "dur": 54094,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36220698,
+      "dur": 49894,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36216586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36220662,
+      "dur": 103996,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36270598,
+      "dur": 54096,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36324700,
+      "dur": 49892,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36320586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36324664,
+      "dur": 103970,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36374598,
+      "dur": 54072,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36428676,
+      "dur": 49916,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36424586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36428640,
+      "dur": 103954,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36478598,
+      "dur": 54032,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36532636,
+      "dur": 49956,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36528586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36532600,
+      "dur": 103992,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36582598,
+      "dur": 54030,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36636634,
+      "dur": 49958,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36632586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36636598,
+      "dur": 104060,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36686598,
+      "dur": 54096,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36740700,
+      "dur": 49892,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36736586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36740664,
+      "dur": 103929,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36790598,
+      "dur": 54031,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36844635,
+      "dur": 49957,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36840586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36844599,
+      "dur": 103996,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36894598,
+      "dur": 54033,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 35979771,
+      "dur": 999970,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36948637,
+      "dur": 49963,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 36944586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 36948601,
+      "dur": 104083,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 36998606,
+      "dur": 54114,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37052726,
+      "dur": 49866,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37048586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37052690,
+      "dur": 103946,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37102598,
+      "dur": 54074,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37156678,
+      "dur": 49914,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37152586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37156642,
+      "dur": 103969,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37206598,
+      "dur": 54049,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37260653,
+      "dur": 49939,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37256586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37260617,
+      "dur": 103993,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37310598,
+      "dur": 54048,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37364652,
+      "dur": 49940,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37360586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37364616,
+      "dur": 104069,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37414598,
+      "dur": 54123,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37468727,
+      "dur": 49865,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37464586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37468691,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37518598,
+      "dur": 54123,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37572727,
+      "dur": 49865,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37568586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37572691,
+      "dur": 103943,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37622598,
+      "dur": 54072,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37676676,
+      "dur": 49916,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37672586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37676640,
+      "dur": 104046,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37726598,
+      "dur": 54124,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37780728,
+      "dur": 49864,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37776586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37780692,
+      "dur": 103992,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37830598,
+      "dur": 54122,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37884726,
+      "dur": 49866,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "LogCycle",
+      "ph": "X",
+      "pid": 1,
+      "tid": "SerialTask",
+      "ts": 36979747,
+      "dur": 999994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37880586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37884690,
+      "dur": 103922,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37934598,
+      "dur": 54057,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 37988661,
+      "dur": 49931,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 37984586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 37988618,
+      "dur": 104070,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 38038598,
+      "dur": 54126,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 38092730,
+      "dur": 49862,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 38092694,
+      "dur": 103901,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 38142598,
+      "dur": 54033,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 38196637,
+      "dur": 49955,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 38192586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 38196601,
+      "dur": 104066,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 38246598,
+      "dur": 54105,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 38300709,
+      "dur": 49891,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 38296586,
+      "dur": 103994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "UltrasonicRead",
+      "ph": "X",
+      "pid": 1,
+      "tid": "UltrasonicTask",
+      "ts": 5081591,
+      "dur": 104994,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BuzzerLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BuzzerTask",
+      "ts": 5086692,
+      "dur": 104946,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "BrakeControlLoop",
+      "ph": "X",
+      "pid": 1,
+      "tid": "BrakeTask",
+      "ts": 5136611,
+      "dur": 55071,
+      "args": {
+        "cpu": 1
+      }
+    },
+    {
+      "name": "process_name",
+      "ph": "M",
+      "pid": 1,
+      "args": {
+        "name": "Tasks & Interrupts"
+      }
+    },
+    {
+      "name": "process_name",
+      "ph": "M",
+      "pid": 2,
+      "args": {
+        "name": "CPU Task Scheduling"
+      }
+    },
+    {
+      "name": "process_sort_index",
+      "ph": "M",
+      "pid": 1,
+      "args": {
+        "sort_index": 0
+      }
+    },
+    {
+      "name": "process_sort_index",
+      "ph": "M",
+      "pid": 2,
+      "args": {
+        "sort_index": 1
+      }
+    }
+  ],
+  "displayTimeUnit": "ms",
+  "otherData": {
+    "version": "MabuTrace Profiler v1.0"
+  }
+}
